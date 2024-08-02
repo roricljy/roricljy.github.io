@@ -1,16 +1,13 @@
-- title: "About"
-  href: "/about/"
+- title: "Home"
+  href : "/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Publication"
+  href : "/publication/"
 
-- title: "CV"
-  href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Lecture"
+  href : "/lecture/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Mathmetical Tools for Computer Vision, 2024"
+      subhref : "/lecture/mathvision24/"
+    - subtitle: "Computer Vision, 2023"
+      subhref : "/lecture/vision23/"
