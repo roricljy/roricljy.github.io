@@ -54,8 +54,9 @@ permalink: /publication/
 * Kyu Nam Choi, Jae-Yeong Lee, and Suk In Yoo, **Area-mura detection in TFT-LCD panel**, Vision Geometry XII, Vol. 5300, pp. 151-158, SPIE
 
 ## Domestic Journal/Magazine Articles
-* 이재영, 도시 규모 서비스 공간에서의 이동로봇 내비게이션 기술, 주간기술동향 1989호, 2021
+* 이재영, **도시 규모 서비스 공간에서의 이동로봇 내비게이션 기술**, 주간기술동향 1989호, 2021
 * 최성록, 김동형, 이재영, 박승환, 서범수, 박병재, 송병열, 김중배, 유원필, 조재일, **제4차 산업혁명 시대의 물류/배송로봇의 동향 및 시사점**, 전자통신동향분석, 34권 4호, 2019년 [PDF](http://ettrends.etri.re.kr/ettrends/178/0905178010/34-4_98-107.pdf) [DOI](http://doi.org/10.22648/ETRI.2019.J.340410)
+* 이재영, **카메라 캘리브레이션과 왜곡보정**, 로봇공학회지 제10권 제1호, 2013
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향 (하)**, 월간 로봇기술, 2012년 11월, pp 72-75 [Magazine](http://www.engzine.com/ebook/ecatalog.asp?Dir=40&catimage=2&callmode=normal_cata)
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향 (상)**, 월간 로봇기술, 2012년 10월, pp 72-75 [Magazine](http://www.engzine.com/ebook/ecatalog.asp?Dir=39&catimage=2&callmode=normal_cata)
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향**, 전자통신동향분석, 26권 6호, 2011년 [PDF](http://ettrends.etri.re.kr/ettrends/downloadPdf.do?paperno=0905001676) [DOI](http://doi.org/10.22648/ETRI.2011.J.260611)
