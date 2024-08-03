@@ -7,6 +7,11 @@ permalink: /publication/
 # Conference
 * Jae-Yeong Lee, **Zero-Shot Estimation of Radial Distortion of Wide-Angle Camera**, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2024
 * Jae-Yeong Lee, **Robust Camera Calibration with a Single Image by Planar Homography**, IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2022
+* Marcella Astrid, Muhammad Zaigham Zaheer, Jae-Yeong Lee, and Seung-Ik Lee, **Learning Not to Reconstruct Anomalies**, British Machine Vision Conference (BMVC), 2021
+* Marcella Astrid, Muhammad Zaigham Zaheer, Jae-Yeong Lee, and Seung-Ik Lee, **Domain-Robust Pedestrian-View Intersection Classication**, 2021 International Conference on Information and Communication Technology Convergence (ICTC). IEEE, 2021
+* Seung-Min Choi and Jae-Young Lee, **What Do Pedestrians See?: Left Right Pose Classification in Pedestrian-View using LRPose recognizer**, 2021 18th International Conference on Ubiquitous Robots (UR), 2021
+* Marcella Astrid, Muhammad Zaigham Zaheer, Jin-Ha Lee, Jae-Yeong Lee, and Seung-Ik Lee, **What Do Pedestrians See?: Visualizing Pedestrian-View Intersection Classification**, IEEE International Conference on Control, Automation and Systems (ICCAS), 2020
+* Marcella Astrid, Jin-Ha Lee, Muhammad Zaigham Zaheer, Jae-Yeong Lee, and Seung-Ik Lee, **For Safer Navigation: Pedestrian-View Intersection Classification**, In 2020 International Conference on Information and Communication Technology Convergence (ICTC) (pp. 7-10). IEEE.
 * Jae-Yeong Lee et al., **Guidance of Mobile Robot Navigation in Urban Environment Using Human-centered Cloud Map**, in Proceedings of IROS Workshop on Semantic Descriptor, Semantic Modeling and Mapping for Human-like Perception and Navigation of Mobile Robots toward Large Scale Long-Term Autonomy, 2019 [PDF](http://ceur-ws.org/Vol-2487/sdpaper5.pdf)
 * Jae-Yeong Lee, Sunglok Choi, and Jaeho Lim, **Detection of High-Risk Intoxicated Passengers in Video Surveillance**, in Proceedings of IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS), 2018 [PDF](https://sites.google.com/site/roricljy/system/errors/NodeNotFound?suri=wuid://defaultdomain/roricljy/gx:7287fc86a33151c2&attredirects=0) [DOI](http://doi.org/10.1109/AVSS.2018.8639485)
 * Jae-Yeong Lee, Sunglok Choi, Jaeho Lim, Saeyeong Ahn, Hodam Lee, and Sangjae Lee, **Intelligent Visual Surveillance System for Safety Management in Railway Stations**, in Proceedings of Asian Conference on Railway Engineering and Transportation (ART), 2018 [PDF](https://sites.google.com/site/roricljy/system/errors/NodeNotFound?suri=wuid://defaultdomain/roricljy/gx:7cc028363f593701&attredirects=0)
@@ -41,6 +46,7 @@ permalink: /publication/
 * Jae Y. Lee and Suk I. Yoo, **An Elliptical Boundary Model for Skin Color Detection**, The 2002 International Conference on Imaging Science, Systems, and Technology (CISST02: June 24-27, 2002, Las Vegas, USA)
 
 # Journal
+* Seung-Min Choi, Seung-Ik Lee, Jae-Yeong Lee, and In So Kweon, **Semantic-guided de-attention with sharpened triplet marginal loss for visual place recognition**, Pattern Recognition, Vol. 141, 2023
 * M. S. Ryoo, Sunglok Choi+, Ji Hoon Joung+, Jae-Yeong Lee+, and Wonpil Yu, **Personal Driving Diary: Automated Recognition of Driving Events from First-Person Videos**, Computer Vision and Image Understanding (CVIU), Vol. 117, No. 10, 2013 [PDF](http://cvrc.ece.utexas.edu/mryoo/papers/cviu13_driving_ryoo.pdf) [DOI](http://doi.org/10.1016/j.cviu.2013.01.004) [Video](http://www.youtube.com/watch?v=f8hew8iDAmA) (+ indicates equal contribution)
 * Shuichi Nishio, Jae-Yeong Lee, Wonpil Yu, Yeonho Kim, Takeshi Sakamoto, Itsuki Noda, Takashi Tsubouchi and Miwako Doi (2010). **Robotic Localization Service Standard for Ubiquitous Network Robots**, Robotics 2010 Current and Future Challenges, Houssem Abdellatif (Ed.)
 * Wonpil Yu, Jae-Yeong Lee, at al,., **Design and Implementation of a Ubiquitous Robotic Space**, IEEE Transactions on Automation Science and Engineering, Vol. 6, No. 4, 2009
@@ -48,6 +54,7 @@ permalink: /publication/
 * Kyu Nam Choi, Jae-Yeong Lee, and Suk In Yoo, **Area-mura detection in TFT-LCD panel**, Vision Geometry XII, Vol. 5300, pp. 151-158, SPIE
 
 ## Domestic Journal/Magazine Articles
+* 이재영, 도시 규모 서비스 공간에서의 이동로봇 내비게이션 기술, 주간기술동향 1989호, 2021
 * 최성록, 김동형, 이재영, 박승환, 서범수, 박병재, 송병열, 김중배, 유원필, 조재일, **제4차 산업혁명 시대의 물류/배송로봇의 동향 및 시사점**, 전자통신동향분석, 34권 4호, 2019년 [PDF](http://ettrends.etri.re.kr/ettrends/178/0905178010/34-4_98-107.pdf) [DOI](http://doi.org/10.22648/ETRI.2019.J.340410)
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향 (하)**, 월간 로봇기술, 2012년 11월, pp 72-75 [Magazine](http://www.engzine.com/ebook/ecatalog.asp?Dir=40&catimage=2&callmode=normal_cata)
 * 유원필, 최성록, 이재영, 박승환, **로봇주행 기술 및 표준화 동향 (상)**, 월간 로봇기술, 2012년 10월, pp 72-75 [Magazine](http://www.engzine.com/ebook/ecatalog.asp?Dir=39&catimage=2&callmode=normal_cata)
@@ -55,6 +62,7 @@ permalink: /publication/
 * 이재영, 채희성, 유원필, **이동로봇을 위한 IR 랜드마크 기반의 실시간 실내 측위 시스템**, 제어자동화시스템공학 논문지, 12권 9호, pp 868-875, 2006년
 
 ## Domestic Conference/Workshop
+* 이재영, **영상기반 이동체 추적 및 궤적 예측을 위한 모션 예측 기법**, 대한전기학회 학술대회 논문집 (KIEE), 2019
 * 이재영, 신호철, **데이터 양 끝단에서의 노이즈 보상이 가능한 궤적 평활화 방법**, 대한전자공학회 하계종합학술대회 (IEEK), 2018
 * 임재호, 최성록, 이재영, 임을균, 조재일, 안세영, 이호담, 이상재, **영상기반 에스컬레이터 이상상황 지능형 감지 기술**, 한국승강기학회 춘계학술대회, 2018년 <span style="color:red">"Best Paper Award"</span>
 * 최성록, 이재영, 임재호, 조재일, 안세영, 이호담, 이상재, **다채널 실시간 철도역사 선로/승강장 이상상황 인지기술**, 한국철도학회 춘계학술대회, 2018년 [PDF](http://railway.or.kr/Papers_Conference/201806/pdf/KSR2018S031.pdf) <span style="color:red">"Best Presentation Award"</span>
