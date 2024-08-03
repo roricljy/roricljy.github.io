@@ -17,7 +17,7 @@ permalink: /
       <a href="https://www.etri.re.kr/">Electronics and Telecommunications Research Institute (ETRI)</a><br><br>
       Professor<br>
       <a href="https://www.ust.ac.kr/">University of Science and Technology</a><br><br>
-      <b>Contact</b>: <a href="mailto:jylee@etri.re.kr">jylee-at-etri.re.kr</a>
+      <b>Contact</b>: <a href="mailto:roricljy@gmail.com">roricljy-at-gmail.com</a>
     </td>
   </tr>
 </table><br>
